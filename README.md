@@ -21,6 +21,7 @@ Bu proje, altın ve döviz verilerini apiden elde ederek; sınırsız varlık ek
 - sqlite3
 - json
 - http.client
+- matplotlib (Grafik Çizimi)
 
   
 ## Ekran Görüntüleri
