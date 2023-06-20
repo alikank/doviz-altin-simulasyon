@@ -55,17 +55,7 @@ Bu proje, altın ve döviz verilerini apiden elde ederek; sınırsız varlık ek
   
 ## Proje Bilgi
 
-Altın ve Döviz verilerini bir API'den alarak kullanıcının sahip olduğu altın ve döviz miktarlarının TL karşılığını gösteren bir tkinter uygulaması geliştirilmiştir.
-
- Kullanıcının farklı döviz ve altın miktarlarını kaydedebilmesi için bu bilgilerin saklanacağı bir veritabanı kullanılacaktır.
-
-Kullanıcı, miktarları farklı tarihlerde güncelleyebilecek ve güncellenen miktarlar kaydedilecektir. 
-
-Uygulama her açıldığında, kullanıcının tüm altın ve döviz varlıklarının TL karşılıkları ayrı ayrı gösterilecek ve toplam varlık miktarı da görüntülenecektir. 
-
-Uygulama, aldığı verileri kaydederek kullanıcıya eski tarihlerdeki bilgileri görüntüleme imkanı sunacak. Ayrıca, seçilen altın veya dövizin değişimi ile kullanıcının varlığının TL karşılığının değişimi grafiksel olarak gösterilebilecektir. 
-
-Kullanıcı, her döviz veya altın miktarı üzerinden yaptığı kâr/zararın hem TL bazında hem de yüzde olarak listesini görebilecektir. Tarihler arasındaki miktar güncellemeleri de dikkate alınarak kâr/zarar hesaplanacak ve toplamı verilecektir.
+Altın ve Döviz verilerini bir API'den alarak kullanıcının sahip olduğu altın ve döviz miktarlarının TL karşılığını gösteren bir tkinter uygulaması geliştirilmiştir. Kullanıcının farklı döviz ve altın miktarlarını kaydedebilmesi için bu bilgilerin saklanacağı bir veritabanı kullanılacaktır. Kullanıcı, miktarları farklı tarihlerde güncelleyebilecek ve güncellenen miktarlar kaydedilecektir. Uygulama her açıldığında, kullanıcının tüm altın ve döviz varlıklarının TL karşılıkları ayrı ayrı gösterilecek ve toplam varlık miktarı da görüntülenecektir. Uygulama, aldığı verileri kaydederek kullanıcıya eski tarihlerdeki bilgileri görüntüleme imkanı sunacak. Ayrıca, seçilen altın veya dövizin değişimi ile kullanıcının varlığının TL karşılığının değişimi grafiksel olarak gösterilebilecektir. Kullanıcı, her döviz veya altın miktarı üzerinden yaptığı kâr/zararın hem TL bazında hem de yüzde olarak listesini görebilecektir. Tarihler arasındaki miktar güncellemeleri de dikkate alınarak kâr/zarar hesaplanacak ve toplamı verilecektir.
 
   
 ## Bilgisayarınızda Çalıştırın
